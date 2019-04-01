@@ -4,9 +4,9 @@
 ## Introducing to "996".
 996 working, ICU waiting.
 
-A "996" work schedule refers to an illegal work schedule that starts from 9 a.m. and ends at 9 p.m. each day, six days a week, which has been gaining popularity.
+A "996" work schedule refers to an illegal work schedule that starts from 9 a.m. and ends at 9 p.m. everyday, six days a week, which has been gaining popularity.
 
-Serving in a company that encourages the "996" work schedule usually means working for at least 60 hours a week.
+Working for a company that encourages the "996" work schedule usually means working at least 60 hours a week.
 
 ## Laws and Regulations
 
